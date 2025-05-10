@@ -32,8 +32,8 @@ If the evaluation metrics allow for it, you can compare the results of multiple 
 ## Program:
 ```
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: RAKESH JS
-RegisterNumber:  212222230115
+Developed by: GURU RAGHAV PONJEEVITH V
+RegisterNumber:  212223220027
 ```
 ```python
 
@@ -82,37 +82,37 @@ plt.title("Customer Segments")
 ## Output:
 ### data.head():
 
-![Screenshot from 2023-10-30 11-08-44](https://github.com/Gchethankumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118348224/20e28c10-49ec-4912-9b52-aa1fa6046cdd)
+![image](https://github.com/user-attachments/assets/1c34e7da-cedd-4cf4-b181-fe91f74a8063)
 
 
 ### data.info():
 
-![Screenshot from 2023-10-30 11-08-56](https://github.com/Gchethankumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118348224/b72586a8-e2c9-46ab-bbbe-36120412beb3)
+![image](https://github.com/user-attachments/assets/b26f95c1-9c8d-4085-8fe4-1488e3525277)
 
 
 ### NULL VALUES:
 
-![Screenshot from 2023-10-30 11-09-07](https://github.com/Gchethankumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118348224/807815d1-9dd7-4139-a7d0-50d75fb3286c)
+![image](https://github.com/user-attachments/assets/0a96c01a-21e9-4a8f-9d8f-f62507be427f)
 
 
 ### ELBOW GRAPH:
 
-![Screenshot from 2023-10-30 11-09-18](https://github.com/Gchethankumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118348224/b4d0d533-6132-4eb8-b1de-be37fee48eff)
+![image](https://github.com/user-attachments/assets/3a9f5273-32a1-486b-9988-8d2172bc066a)
 
 
 ### CLUSTER FORMATION:
 
-![Screenshot from 2023-10-30 11-09-34](https://github.com/Gchethankumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118348224/9ea2de21-b25c-473c-a445-be867560c5a5)
+![278949632-9ea2de21-b25c-473c-a445-be867560c5a5](https://github.com/user-attachments/assets/6c8f8d5c-a533-42f1-9062-b3f0f6d9bfb3)
 
 
 ### PREDICICTED VALUE:
 
-![Screenshot from 2023-10-30 11-09-49](https://github.com/Gchethankumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118348224/7d1d3af3-1df5-4b47-baa7-2105225f1ea0)
+![image](https://github.com/user-attachments/assets/33040de1-86e8-49cf-88d2-258ae6bf9da1)
 
 
 ### FINAL GRAPH(D/O):
 
-![Screenshot from 2023-10-30 11-09-58](https://github.com/Gchethankumar/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118348224/f14deb56-9d40-4fe5-9100-677e33629c56)
+![image](https://github.com/user-attachments/assets/a989c9da-0ef5-48b6-9c8c-4baef9e9c049)
 
 
 ## Result:
